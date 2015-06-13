@@ -1,0 +1,19 @@
+reset
+set ylabel "relative Intensität"
+set xlabel "I / A"
+set yrange [0:25]
+set xrange [0:5]
+set key left top
+set zeroaxis
+set sample 10000
+m=0
+b=0
+f(x)=m*x+b
+g(x)=a*(sin(b*x))**2+c
+#fit f(x) "Messung_1_Beiglas_hamacher.txt" using 1:2 via m, b
+fit g(x) "Messung_1_Beiglas_hamacher.txt" using 1:2 via a, b, c
+plot f(x) title "linear fit", "Messung_1_Beiglas_hamacher.txt" using 1:2 pt 1 title "Data"
+
+set terminal pdf
+set output "1.pdf"
+replot

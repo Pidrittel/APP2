@@ -1,0 +1,1005 @@
+
+
+*******************************************************************************
+Thu Jun 11 14:57:33 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 5.00000]
+BREAK:          No data to fit 
+
+
+
+*******************************************************************************
+Thu Jun 11 14:58:59 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 5.00000]
+BREAK:          No data to fit 
+
+
+
+*******************************************************************************
+Thu Jun 11 14:59:20 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 5.00000]
+BREAK:          No data to fit 
+
+
+
+*******************************************************************************
+Thu Jun 11 14:59:22 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 5.00000]
+BREAK:          No data to fit 
+
+
+
+*******************************************************************************
+Thu Jun 11 14:59:54 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1700.84           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 36.5088
+rel. change during last iteration : -2.92712e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.5601
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.43392
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 4.10214          +/- 0.3083       (7.515%)
+b               = -1.03793         +/- 0.8117       (78.2%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:00:51 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:(sin($2))
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.98706           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 6.29251
+rel. change during last iteration : -1.60909e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.647689
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.419501
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = -0.238089        +/- 0.128        (53.75%)
+b               = 0.674099         +/- 0.337        (49.99%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:01:52 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:(sin($2))
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.98706           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 6.29251
+rel. change during last iteration : -1.60909e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.647689
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.419501
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = -0.238089        +/- 0.128        (53.75%)
+b               = 0.674099         +/- 0.337        (49.99%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:02:18 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:(sin($2))
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.98706           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 6.29251
+rel. change during last iteration : -1.60909e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.647689
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.419501
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = -0.238089        +/- 0.128        (53.75%)
+b               = 0.674099         +/- 0.337        (49.99%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:02:55 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:(asin($2))
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 41.9458           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 5.79389e-027
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.96535e-014
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.86259e-028
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Jun 11 15:05:39 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1504.31           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.66519
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-030
+c               = 1
+
+After 75 iterations the fit converged.
+final sum of squares of residuals : 467.485
+rel. change during last iteration : -4.76692e-008
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.77856
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33.3918
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Jun 11 15:06:21 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1428.24           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.57735
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-030
+c               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 467.485
+rel. change during last iteration : -2.921e-011
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.77856
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33.3918
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Jun 11 15:06:23 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1428.24           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.57735
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-030
+c               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 467.485
+rel. change during last iteration : -2.921e-011
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.77856
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33.3918
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Jun 11 15:06:57 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1700.84           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 36.5088
+rel. change during last iteration : -2.92712e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.5601
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.43392
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 4.10214          +/- 0.3083       (7.515%)
+b               = -1.03793         +/- 0.8117       (78.2%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:42:26 2015
+
+
+FIT:    data read from "Messung_2_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1187.47           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.77802
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 58.198
+rel. change during last iteration : -1.24581e-012
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.11443
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.69967
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 6.37031          +/- 0.817        (12.83%)
+b               = -3.71591         +/- 1.885        (50.72%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.812  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:42:35 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1700.84           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 36.5088
+rel. change during last iteration : -2.92712e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.5601
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.43392
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 4.10214          +/- 0.3083       (7.515%)
+b               = -1.03793         +/- 0.8117       (78.2%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:44:13 2015
+
+
+FIT:    data read from "Messung_2_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1187.47           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.77802
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 58.198
+rel. change during last iteration : -1.24581e-012
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.11443
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.69967
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 6.37031          +/- 0.817        (12.83%)
+b               = -3.71591         +/- 1.885        (50.72%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.812  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:45:21 2015
+
+
+FIT:    data read from "Messung_2_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1187.47           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.77802
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 58.198
+rel. change during last iteration : -1.24581e-012
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.11443
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.69967
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 6.37031          +/- 0.817        (12.83%)
+b               = -3.71591         +/- 1.885        (50.72%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.812  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:46:29 2015
+
+
+FIT:    data read from "Messung_2_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 8.00000]
+        #datapoints = 12
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20450.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 3.14734
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 661.552
+rel. change during last iteration : -1.90809e-011
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 8.13359
+variance of residuals (reduced chisquare) = WSSR/ndf   : 66.1552
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 11.4252          +/- 0.9094       (7.959%)
+b               = -11.9086         +/- 3.944        (33.12%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.804  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:46:39 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1700.84           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 36.5088
+rel. change during last iteration : -2.92712e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.5601
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.43392
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 4.10214          +/- 0.3083       (7.515%)
+b               = -1.03793         +/- 0.8117       (78.2%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:49:15 2015
+
+
+FIT:    data read from "Messung_2_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 8.00000]
+        #datapoints = 12
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20450.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 3.14734
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 661.552
+rel. change during last iteration : -1.90809e-011
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 8.13359
+variance of residuals (reduced chisquare) = WSSR/ndf   : 66.1552
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 11.4252          +/- 0.9094       (7.959%)
+b               = -11.9086         +/- 3.944        (33.12%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.804  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:50:59 2015
+
+
+FIT:    data read from "Messung_2_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 8.00000]
+        #datapoints = 12
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20450.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 3.14734
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 661.552
+rel. change during last iteration : -1.90809e-011
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 8.13359
+variance of residuals (reduced chisquare) = WSSR/ndf   : 66.1552
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 11.4252          +/- 0.9094       (7.959%)
+b               = -11.9086         +/- 3.944        (33.12%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.804  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 15:51:03 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1700.84           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.99157
+
+initial set of free parameter values
+
+m               = 1e-030
+b               = 1e-030
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 36.5088
+rel. change during last iteration : -2.92712e-013
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.5601
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.43392
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 4.10214          +/- 0.3083       (7.515%)
+b               = -1.03793         +/- 0.8117       (78.2%)
+
+
+correlation matrix of the fit parameters:
+
+               m      b      
+m               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Thu Jun 11 16:24:19 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1189.64           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.816497
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-030
+c               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 467.485
+rel. change during last iteration : -2.19555e-011
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.77856
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33.3918
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Jun 11 16:24:30 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1189.64           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.816497
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-030
+c               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 467.485
+rel. change during last iteration : -2.19555e-011
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.77856
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33.3918
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Jun 11 16:25:11 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1428.24           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.57735
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-030
+c               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 467.485
+rel. change during last iteration : -2.921e-011
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.77856
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33.3918
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Jun 11 16:25:19 2015
+
+
+FIT:    data read from "Messung_1_Beiglas_hamacher.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 5.00000]
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1428.24           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.57735
+
+initial set of free parameter values
+
+a               = 1
+b               = 1e-030
+c               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 467.485
+rel. change during last iteration : -2.921e-011
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.77856
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33.3918
+
+BREAK:          Singular matrix in Invert_RtR
+
